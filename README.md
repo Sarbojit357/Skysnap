@@ -67,19 +67,6 @@ See detailed deployment instructions in the [wiki](#) (or ask the author).
 
 ---
 
-## Project Structure
-
-Skysnap/
-├── app.py # Flask backend
-├── requirements.txt # Python dependencies
-├── client/ # React frontend
-│ ├── src/
-│ ├── public/
-│ └── package.json
-└── README.md
-
-text
-
 ---
 
 ## API Reference
